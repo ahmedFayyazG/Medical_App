@@ -11,3 +11,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.table {
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.ant-table-thead > tr >th{
+  
+  background: #323232 !important;
+  color: whitesmoke !important;
+  font-weight: bold !important;
+  height: 25px !important;
+}
+
+.ant-select-selection {
+  background-color: green !important;
+
+}
+
+Tagee {
+  width: "100%";
+  background: "green" 
+}
+
+#components-layout-demo-side .logo {
+  height: 32px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
