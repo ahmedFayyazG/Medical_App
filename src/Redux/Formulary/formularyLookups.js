@@ -28,7 +28,7 @@ export const getFormularyLookups = createAsyncThunk(
         Accept: "application/json",
         Authorization:
           "Bearer " +
-          "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwibmJmIjoxNjQ0ODE3OTc2LCJleHAiOjE2NDQ4MTk3NzYsImlhdCI6MTY0NDgxNzk3Nn0.cmR-3W_WOCoyb5it6C6-kQqzWA5q7dk_-FgUvlSdDZ8",
+          "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwibmJmIjoxNjQ0ODI2NzY5LCJleHAiOjE2NDQ4Mjg1NjksImlhdCI6MTY0NDgyNjc2OX0.kT_DCb8jE-6T6YU70eYggWKAUFwLsPVSM2is2XeVksA",
       },
     };
 

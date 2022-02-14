@@ -43,9 +43,9 @@ const LayoutForm = () => {
             </Menu.Item>
           </Menu>
         </Sider>
-        <Layout className="site-layout" style={{ marginLeft: 200 }}>
+        <Layout className="site-layout">
           <Header className="site-layout-background" style={{ padding: 0 }} />
-          <Content style={{ margin: "24px 16px 0", overflow: "hidden" }}>
+          <Content>
             <Form />
           </Content>
         </Layout>
